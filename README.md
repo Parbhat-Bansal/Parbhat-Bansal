@@ -106,9 +106,9 @@ Real-time chat application using Java Socket Programming and multithreading.
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Parbhat-Bansal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parbhat-Bansal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Parbhat-Bansal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Parbhat-Bansal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /></p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Parbhat-Bansal&theme=tokyonight&hide_border=true" />
