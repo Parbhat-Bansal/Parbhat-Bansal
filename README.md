@@ -116,11 +116,6 @@ Real-time chat application using Java Socket Programming and multithreading.
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parbhat-Bansal&theme=tokyo-night&hide_border=true&radius=12" />
-</p>
 
 
 # 🎯 Current Focus
@@ -149,7 +144,7 @@ Real-time chat application using Java Socket Programming and multithreading.
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/Parbhat%20Bansal">
+<a href="https://www.linkedin.com/in/parbhat-bansal-084b54261/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
